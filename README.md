@@ -8,6 +8,6 @@ If the ros version is noetic, then do:
   cd serial  
   cmake -DCMAKE_INSTALL_PREFIX=/opt/ros/nortic ..   
   sudo make install  
-##2.Compile
+## 2.Compile
   cd catkin_ws/src  
   catkin_make  
