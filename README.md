@@ -6,7 +6,7 @@ You can execute the following command if the ros version is earlier than noetic(
 If the ros version is noetic, then do:  
   git clone https://github.com/wjwwood/serial.git  
   cd serial  
-  cmake -DCMAKE_INSTALL_PREFIX=/opt/ros/nortic ..   
+  cmake -DCMAKE_INSTALL_PREFIX=/opt/ros/noetic ..   
   sudo make install  
 ## 2.Compile
   cd catkin_ws/src  
